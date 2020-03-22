@@ -17,9 +17,9 @@ pip install scrapy
 scrapy startproject [project_name]
 ```
 
-##Usefull things todo in the terminal
+## Usefull things todo in the terminal
 
-####Enter the website.
+#### Enter the website.
 
 ```bash
 scrapy shell [url]
