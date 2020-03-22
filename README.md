@@ -31,3 +31,6 @@ Return certain item from the web site.
 response.css('title')
 response.css('title::text').get()
 ```
+
+## DOC
+https://docs.scrapy.org/en/latest/index.html
