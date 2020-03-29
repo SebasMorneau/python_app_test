@@ -30,4 +30,5 @@ Return certain item from the web site.
 ```bash
 response.css('title')
 response.css('title::text').get()
+response.css('p::text').re(r'(\w+) you (\w+)')
 ```
